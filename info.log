@@ -1,0 +1,432 @@
+2021-10-08 19:05:51,326 INFO :: MB_autonomous is started
+2021-10-08 19:05:52,506 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:05:52,511 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:05:53,392 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:05:53,392 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:05:53,461 INFO :: Binance connection opened
+2021-10-08 19:06:34,931 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:06:35,144 WARNING :: Binance Websocket connection closed
+2021-10-08 19:07:10,582 INFO :: MB_autonomous is started
+2021-10-08 19:07:12,230 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:07:12,234 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:07:13,069 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:07:13,070 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:07:13,130 INFO :: Binance connection opened
+2021-10-08 19:08:00,010 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:08:00,010 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x00000292B6605100>>: not enough values to unpack (expected 2, got 1)
+2021-10-08 19:08:59,987 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:08:59,987 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x00000292B6605100>>: not enough values to unpack (expected 2, got 1)
+2021-10-08 19:09:37,492 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:09:37,705 WARNING :: Binance Websocket connection closed
+2021-10-08 19:13:35,846 INFO :: MB_autonomous is started
+2021-10-08 19:13:36,572 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:13:36,584 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:13:37,526 INFO :: Binance connection opened
+2021-10-08 19:13:37,527 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:13:49,387 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:14:00,016 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:14:00,017 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x000001FF51C6D340>>: not enough values to unpack (expected 2, got 1)
+2021-10-08 19:14:32,932 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:14:33,149 WARNING :: Binance Websocket connection closed
+2021-10-08 19:18:09,370 INFO :: MB_autonomous is started
+2021-10-08 19:18:10,163 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:18:10,168 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:18:10,994 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:18:10,994 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:18:11,098 INFO :: Binance connection opened
+2021-10-08 19:18:21,574 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:18:21,794 WARNING :: Binance Websocket connection closed
+2021-10-08 19:18:34,416 INFO :: MB_autonomous is started
+2021-10-08 19:18:35,546 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:18:35,549 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:18:36,350 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:18:36,350 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:18:36,434 INFO :: Binance connection opened
+2021-10-08 19:18:55,974 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:18:56,193 WARNING :: Binance Websocket connection closed
+2021-10-08 19:20:02,903 INFO :: MB_autonomous is started
+2021-10-08 19:20:08,138 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:20:08,142 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:20:09,001 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:20:09,002 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:20:09,069 INFO :: Binance connection opened
+2021-10-08 19:21:43,298 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:21:43,516 WARNING :: Binance Websocket connection closed
+2021-10-08 19:22:37,609 INFO :: MB_autonomous is started
+2021-10-08 19:22:39,215 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:22:39,219 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:22:40,176 INFO :: Binance connection opened
+2021-10-08 19:22:40,177 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:22:40,546 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:24:08,899 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:24:09,125 WARNING :: Binance Websocket connection closed
+2021-10-08 19:24:37,364 INFO :: MB_autonomous is started
+2021-10-08 19:24:48,667 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:24:48,671 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:24:49,585 INFO :: Binance connection opened
+2021-10-08 19:24:49,585 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:24:49,964 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:25:10,716 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:25:10,933 WARNING :: Binance Websocket connection closed
+2021-10-08 19:25:26,690 INFO :: MB_autonomous is started
+2021-10-08 19:25:27,846 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:25:27,849 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:25:28,752 INFO :: Binance connection opened
+2021-10-08 19:25:28,752 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:25:29,127 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:26:00,754 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:26:00,754 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x00000279A2E65100>>: not enough values to unpack (expected 2, got 1)
+2021-10-08 19:26:10,143 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:26:10,184 WARNING :: Binance Websocket connection closed
+2021-10-08 19:26:22,904 INFO :: MB_autonomous is started
+2021-10-08 19:26:24,102 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:26:24,117 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:26:25,078 INFO :: Binance connection opened
+2021-10-08 19:26:25,079 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:26:25,445 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:26:38,639 WARNING :: Binance BTCUSDT: 11535 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:08,647 WARNING :: Binance BTCUSDT: 36535 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:22,988 WARNING :: Binance BTCUSDT: 53718 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:35,301 WARNING :: Binance BTCUSDT: 63359 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,368 WARNING :: Binance BTCUSDT: 67826 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,370 WARNING :: Binance BTCUSDT: 67828 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,372 WARNING :: Binance BTCUSDT: 67774 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,375 WARNING :: Binance BTCUSDT: 67750 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,381 WARNING :: Binance BTCUSDT: 62001 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,382 WARNING :: Binance BTCUSDT: 62001 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,382 WARNING :: Binance BTCUSDT: 61990 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,383 WARNING :: Binance BTCUSDT: 61966 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,384 WARNING :: Binance BTCUSDT: 61967 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,385 WARNING :: Binance BTCUSDT: 61945 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,385 WARNING :: Binance BTCUSDT: 61922 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,387 WARNING :: Binance BTCUSDT: 61924 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,388 WARNING :: Binance BTCUSDT: 59989 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,388 WARNING :: Binance BTCUSDT: 59989 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,389 WARNING :: Binance BTCUSDT: 59974 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,390 WARNING :: Binance BTCUSDT: 59975 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,392 WARNING :: Binance BTCUSDT: 59951 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,393 WARNING :: Binance BTCUSDT: 59520 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,394 WARNING :: Binance BTCUSDT: 58275 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,394 WARNING :: Binance BTCUSDT: 58275 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,395 WARNING :: Binance BTCUSDT: 58082 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,396 WARNING :: Binance BTCUSDT: 56026 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,398 WARNING :: Binance BTCUSDT: 55856 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,399 WARNING :: Binance BTCUSDT: 54104 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,400 WARNING :: Binance BTCUSDT: 51959 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,401 WARNING :: Binance BTCUSDT: 50390 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,402 WARNING :: Binance BTCUSDT: 50298 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,403 WARNING :: Binance BTCUSDT: 50286 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,405 WARNING :: Binance BTCUSDT: 50288 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,406 WARNING :: Binance BTCUSDT: 48015 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,407 WARNING :: Binance BTCUSDT: 46396 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,408 WARNING :: Binance BTCUSDT: 46397 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,409 WARNING :: Binance BTCUSDT: 42339 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,410 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:27:43,410 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x0000015B5918D340>>: not enough values to unpack (expected 2, got 1)
+2021-10-08 19:27:43,411 WARNING :: Binance BTCUSDT: 40242 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,411 WARNING :: Binance BTCUSDT: 40242 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,412 WARNING :: Binance BTCUSDT: 40243 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,413 WARNING :: Binance BTCUSDT: 39873 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,414 WARNING :: Binance BTCUSDT: 39313 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,415 WARNING :: Binance BTCUSDT: 38007 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,415 WARNING :: Binance BTCUSDT: 37586 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,416 WARNING :: Binance BTCUSDT: 36491 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,418 WARNING :: Binance BTCUSDT: 36483 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,419 WARNING :: Binance BTCUSDT: 36458 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,420 WARNING :: Binance BTCUSDT: 36459 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,421 WARNING :: Binance BTCUSDT: 36423 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,422 WARNING :: Binance BTCUSDT: 36408 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,422 WARNING :: Binance BTCUSDT: 36408 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,423 WARNING :: Binance BTCUSDT: 36409 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,423 WARNING :: Binance BTCUSDT: 36409 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,424 WARNING :: Binance BTCUSDT: 36410 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,428 WARNING :: Binance BTCUSDT: 23885 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,428 WARNING :: Binance BTCUSDT: 23853 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,429 WARNING :: Binance BTCUSDT: 23854 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,430 WARNING :: Binance BTCUSDT: 23855 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,431 WARNING :: Binance BTCUSDT: 23845 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,432 WARNING :: Binance BTCUSDT: 23404 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,435 WARNING :: Binance BTCUSDT: 22931 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,437 WARNING :: Binance BTCUSDT: 22299 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,438 WARNING :: Binance BTCUSDT: 18092 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,438 WARNING :: Binance BTCUSDT: 18092 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,439 WARNING :: Binance BTCUSDT: 18093 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,439 WARNING :: Binance BTCUSDT: 18093 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,439 WARNING :: Binance BTCUSDT: 18093 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,440 WARNING :: Binance BTCUSDT: 18094 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,441 WARNING :: Binance BTCUSDT: 18095 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,441 WARNING :: Binance BTCUSDT: 18083 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,441 WARNING :: Binance BTCUSDT: 18083 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,442 WARNING :: Binance BTCUSDT: 18084 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,443 WARNING :: Binance BTCUSDT: 18085 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,443 WARNING :: Binance BTCUSDT: 18063 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,445 WARNING :: Binance BTCUSDT: 18065 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,449 WARNING :: Binance BTCUSDT: 14280 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,450 WARNING :: Binance BTCUSDT: 14268 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,450 WARNING :: Binance BTCUSDT: 14268 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,451 WARNING :: Binance BTCUSDT: 14269 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,453 WARNING :: Binance BTCUSDT: 11635 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,455 WARNING :: Binance BTCUSDT: 10159 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,455 WARNING :: Binance BTCUSDT: 10160 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,457 WARNING :: Binance BTCUSDT: 2243 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,458 WARNING :: Binance BTCUSDT: 2244 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,458 WARNING :: Binance BTCUSDT: 2244 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,459 WARNING :: Binance BTCUSDT: 2236 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,459 WARNING :: Binance BTCUSDT: 2236 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,460 WARNING :: Binance BTCUSDT: 2237 milliseconds of difference between the current time and the trade time
+2021-10-08 19:27:43,462 WARNING :: Binance BTCUSDT: 2087 milliseconds of difference between the current time and the trade time
+2021-10-08 19:28:00,643 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:28:00,644 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x0000015B5918D340>>: not enough values to unpack (expected 2, got 1)
+2021-10-08 19:28:57,388 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:28:57,603 WARNING :: Binance Websocket connection closed
+2021-10-08 19:30:20,685 INFO :: MB_autonomous is started
+2021-10-08 19:30:29,428 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:30:29,432 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:30:30,360 INFO :: Binance connection opened
+2021-10-08 19:30:30,360 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:30:30,801 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:31:00,454 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:32:00,952 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:33:00,418 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:34:02,626 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:34:13,334 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:34:13,554 WARNING :: Binance Websocket connection closed
+2021-10-08 19:34:24,357 INFO :: MB_autonomous is started
+2021-10-08 19:34:25,490 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:34:25,504 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:34:26,470 INFO :: Binance connection opened
+2021-10-08 19:34:26,471 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:34:26,823 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:35:06,828 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:35:21,238 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x0000019EBE20D520>>: not enough values to unpack (expected 2, got 1)
+2021-10-08 19:35:28,349 WARNING :: Binance BTCUSDT: 18841 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,349 WARNING :: Binance BTCUSDT: 18828 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,351 WARNING :: Binance BTCUSDT: 18830 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,351 WARNING :: Binance BTCUSDT: 18791 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,352 WARNING :: Binance BTCUSDT: 18792 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,353 WARNING :: Binance BTCUSDT: 18793 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,353 WARNING :: Binance BTCUSDT: 18775 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,354 WARNING :: Binance BTCUSDT: 18763 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,356 WARNING :: Binance BTCUSDT: 18751 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,360 WARNING :: Binance BTCUSDT: 14952 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,361 WARNING :: Binance BTCUSDT: 9766 milliseconds of difference between the current time and the trade time
+2021-10-08 19:35:28,363 WARNING :: Binance BTCUSDT: 9768 milliseconds of difference between the current time and the trade time
+2021-10-08 19:36:03,584 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:36:17,699 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:36:59,698 INFO :: MB_autonomous is started
+2021-10-08 19:37:00,865 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:37:00,880 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:37:01,847 INFO :: Binance connection opened
+2021-10-08 19:37:01,849 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:37:02,196 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:37:49,518 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:37:49,742 WARNING :: Binance Websocket connection closed
+2021-10-08 19:38:20,851 INFO :: MB_autonomous is started
+2021-10-08 19:38:22,029 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:38:22,035 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:38:23,003 INFO :: Binance connection opened
+2021-10-08 19:38:23,003 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:38:23,335 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:39:02,727 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:39:02,727 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x0000020FEA6543A0>>: 'TradeChaosStrategy' object has no attribute 'prev_mfi'
+2021-10-08 19:39:32,692 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:39:32,910 WARNING :: Binance Websocket connection closed
+2021-10-08 19:41:27,694 INFO :: MB_autonomous is started
+2021-10-08 19:41:29,462 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:41:29,466 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:41:30,434 INFO :: Binance connection opened
+2021-10-08 19:41:30,434 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:41:30,810 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:42:00,652 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:43:04,370 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:43:04,370 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x00000204187053A0>>: '>' not supported between instances of 'float' and 'str'
+2021-10-08 19:43:32,338 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:43:32,564 WARNING :: Binance Websocket connection closed
+2021-10-08 19:50:41,555 INFO :: MB_autonomous is started
+2021-10-08 19:50:43,231 INFO :: Binance Futures Client successfully initialized
+2021-10-08 19:50:43,236 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 19:50:44,054 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 19:50:44,054 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 19:50:44,186 INFO :: Binance connection opened
+2021-10-08 19:51:00,660 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:51:00,662 INFO :: Getting Binance trade size...
+2021-10-08 19:51:00,984 INFO :: Binance current USDT balance = 99905.58523504, trade size = 0.002
+2021-10-08 19:51:00,984 INFO :: Short signal on BTCUSDT 1m
+2021-10-08 19:51:01,773 INFO :: Sell order placed on Binance | Status: new
+2021-10-08 19:51:04,592 INFO :: Binance order status: filled
+2021-10-08 19:52:00,817 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:53:03,621 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:54:03,277 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 19:54:07,644 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 19:54:07,874 WARNING :: Binance Websocket connection closed
+2021-10-08 22:20:27,818 INFO :: MB_autonomous is started
+2021-10-08 22:21:10,731 INFO :: MB_autonomous is started
+2021-10-08 22:21:10,735 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:24:46,242 INFO :: MB_autonomous is started
+2021-10-08 22:26:43,533 INFO :: MB_autonomous is started
+2021-10-08 22:26:52,070 INFO :: MB_autonomous is started
+2021-10-08 22:27:01,610 INFO :: MB_autonomous is started
+2021-10-08 22:27:56,029 INFO :: MB_autonomous is started
+2021-10-08 22:28:13,834 INFO :: MB_autonomous is started
+2021-10-08 22:28:13,841 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:28:40,396 INFO :: MB_autonomous is started
+2021-10-08 22:28:40,400 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:29:03,548 INFO :: MB_autonomous is started
+2021-10-08 22:29:03,552 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:29:33,493 INFO :: MB_autonomous is started
+2021-10-08 22:29:53,491 INFO :: MB_autonomous is started
+2021-10-08 22:30:07,578 INFO :: MB_autonomous is started
+2021-10-08 22:30:30,257 INFO :: MB_autonomous is started
+2021-10-08 22:31:06,061 INFO :: MB_autonomous is started
+2021-10-08 22:31:12,980 INFO :: MB_autonomous is started
+2021-10-08 22:32:00,793 INFO :: MB_autonomous is started
+2021-10-08 22:32:25,545 INFO :: MB_autonomous is started
+2021-10-08 22:33:50,419 INFO :: MB_autonomous is started
+2021-10-08 22:33:58,466 INFO :: MB_autonomous is started
+2021-10-08 22:35:20,210 INFO :: MB_autonomous is started
+2021-10-08 22:35:31,765 INFO :: MB_autonomous is started
+2021-10-08 22:38:56,555 INFO :: MB_autonomous is started
+2021-10-08 22:42:48,243 INFO :: MB_autonomous is started
+2021-10-08 22:43:19,527 INFO :: MB_autonomous is started
+2021-10-08 22:43:19,531 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:43:34,689 INFO :: MB_autonomous is started
+2021-10-08 22:43:49,516 INFO :: MB_autonomous is started
+2021-10-08 22:43:49,517 INFO :: Read Candles strategy from config file
+2021-10-08 22:43:49,518 INFO :: Read RSI+MACD strategy from config file
+2021-10-08 22:43:49,519 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:44:00,069 INFO :: MB_autonomous is started
+2021-10-08 22:44:00,071 INFO :: Read Candles strategy from config file
+2021-10-08 22:44:00,073 INFO :: Read RSI+MACD strategy from config file
+2021-10-08 22:44:00,075 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:44:04,792 INFO :: MB_autonomous is started
+2021-10-08 22:44:44,328 INFO :: Read Candles strategy from config file
+2021-10-08 22:44:51,750 INFO :: Read RSI+MACD strategy from config file
+2021-10-08 22:44:54,880 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:45:52,516 INFO :: MB_autonomous is started
+2021-10-08 22:46:23,203 INFO :: MB_autonomous is started
+2021-10-08 22:46:23,208 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:46:31,765 INFO :: MB_autonomous is started
+2021-10-08 22:46:52,010 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:49:39,234 INFO :: MB_autonomous is started
+2021-10-08 22:49:39,237 INFO :: Current platform from config file is binance_futures
+2021-10-08 22:49:52,492 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:51:14,836 INFO :: MB_autonomous is started
+2021-10-08 22:51:14,837 INFO :: Current platform from config file is Binance_futures
+2021-10-08 22:51:14,840 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:51:26,354 INFO :: MB_autonomous is started
+2021-10-08 22:51:26,355 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 22:51:26,358 INFO :: Read TradeChaos_1 strategy from config file
+2021-10-08 22:53:39,552 INFO :: MB_autonomous is started
+2021-10-08 22:53:39,553 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 22:53:39,556 INFO :: TRADECHAOS_1 strategy will set for BTCUSDT pair
+2021-10-08 22:54:17,163 INFO :: MB_autonomous is started
+2021-10-08 22:54:17,164 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 22:54:17,167 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:00:25,794 INFO :: MB_autonomous is started
+2021-10-08 23:00:25,795 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:00:25,798 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:01:37,395 INFO :: MB_autonomous is started
+2021-10-08 23:01:38,058 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:01:38,059 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:01:38,062 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:01:38,876 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:01:38,876 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:01:38,997 INFO :: Binance connection opened
+2021-10-08 23:01:57,115 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:01:57,341 WARNING :: Binance Websocket connection closed
+2021-10-08 23:15:11,539 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:15:11,540 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:15:11,544 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:15:12,200 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:15:13,012 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:15:13,013 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:15:13,104 INFO :: Binance connection opened
+2021-10-08 23:15:23,917 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:15:24,026 WARNING :: Binance Websocket connection closed
+2021-10-08 23:20:05,547 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:20:05,548 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:20:05,551 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:20:06,254 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:20:07,085 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:20:07,086 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:20:07,156 INFO :: Binance connection opened
+2021-10-08 23:20:10,186 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:20:10,405 WARNING :: Binance Websocket connection closed
+2021-10-08 23:23:03,750 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:23:03,752 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:23:03,755 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:23:04,453 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:23:05,273 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:23:05,274 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:23:05,401 INFO :: Binance connection opened
+2021-10-08 23:23:59,372 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 23:23:59,374 INFO :: Getting Binance trade size...
+2021-10-08 23:23:59,710 INFO :: Binance current USDT balance = 99905.54173268, trade size = 0.002
+2021-10-08 23:23:59,710 INFO :: Short signal on BTCUSDT 1m
+2021-10-08 23:24:00,036 INFO :: Sell order placed on Binance | Status: new
+2021-10-08 23:24:02,378 INFO :: Binance order status: filled
+2021-10-08 23:24:12,282 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:24:12,500 WARNING :: Binance Websocket connection closed
+2021-10-08 23:24:17,716 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:24:17,717 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:24:17,720 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:24:18,957 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:24:19,876 INFO :: Binance connection opened
+2021-10-08 23:24:19,877 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:24:20,271 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:24:22,007 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:24:22,228 WARNING :: Binance Websocket connection closed
+2021-10-08 23:32:20,973 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:32:20,974 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:32:20,978 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:32:21,770 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:32:22,686 INFO :: Binance connection opened
+2021-10-08 23:32:22,686 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:32:22,691 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:33:08,860 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 23:33:08,862 INFO :: Getting Binance trade size...
+2021-10-08 23:33:09,700 INFO :: Binance current USDT balance = 99905.49817428, trade size = 0.002
+2021-10-08 23:33:09,700 INFO :: Short signal on BTCUSDT 1m
+2021-10-08 23:33:10,516 INFO :: Sell order placed on Binance | Status: new
+2021-10-08 23:33:12,847 INFO :: Binance order status: filled
+2021-10-08 23:33:58,101 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:33:58,322 WARNING :: Binance Websocket connection closed
+2021-10-08 23:34:58,597 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:34:58,598 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:34:58,602 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:34:59,810 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:35:00,642 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:35:00,643 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:35:00,734 INFO :: Binance connection opened
+2021-10-08 23:35:05,697 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 23:35:05,700 INFO :: Getting Binance trade size...
+2021-10-08 23:35:06,022 INFO :: Binance current USDT balance = 99905.45460221, trade size = 0.002
+2021-10-08 23:35:06,022 INFO :: Short signal on BTCUSDT 1m
+2021-10-08 23:35:06,858 INFO :: Sell order placed on Binance | Status: new
+2021-10-08 23:35:09,185 INFO :: Binance order status: filled
+2021-10-08 23:35:30,755 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:35:30,971 WARNING :: Binance Websocket connection closed
+2021-10-08 23:37:00,079 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:37:00,080 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:37:00,083 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:37:01,706 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:37:02,569 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:37:02,569 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:37:02,628 INFO :: Binance connection opened
+2021-10-08 23:37:59,965 INFO :: Binance New candle for BTCUSDT 1m
+2021-10-08 23:37:59,968 INFO :: Getting Binance trade size...
+2021-10-08 23:38:00,816 INFO :: Binance current USDT balance = 99905.41107101, trade size = 0.002
+2021-10-08 23:38:00,817 INFO :: Short signal on BTCUSDT 1m
+2021-10-08 23:38:01,144 INFO :: Sell order placed on Binance | Status: new
+2021-10-08 23:38:03,508 INFO :: Binance order status: filled
+2021-10-08 23:38:38,620 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:38:38,834 WARNING :: Binance Websocket connection closed
+2021-10-08 23:42:34,485 INFO ::  --- MB_AUTONOMOUS IS STARTED --- 
+2021-10-08 23:42:34,487 INFO :: Current platform from config file is BINANCE_FUTURES
+2021-10-08 23:42:34,490 INFO :: TradeChaos_1 strategy will set for BTCUSDT
+2021-10-08 23:42:37,179 INFO :: Binance Futures Client successfully initialized
+2021-10-08 23:42:38,020 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-10-08 23:42:38,021 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2021-10-08 23:42:38,129 INFO :: Binance connection opened
+2021-10-08 23:42:50,316 INFO :: Exit by KeyBoard Interrupt...
+2021-10-08 23:42:50,537 WARNING :: Binance Websocket connection closed

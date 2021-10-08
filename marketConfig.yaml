@@ -1,0 +1,43 @@
+# Candles intervals: 1m, 3m, 5m, 15m, 30m, 1h, 2h, 4h, 6h, 8h, 12h, 1d, 3d, 1w, 1M
+
+---
+platform: binance_futures
+#platform: binance_spot
+---
+strategy_name: Candles
+symbol: BTCUSDT
+exchange: Binance
+
+timeframe: 1h
+balance_pct: 0.1
+take_profit_pct: 3
+stop_loss_pct: 1
+parameters:
+  min_volume: 10
+status: OFF
+---
+strategy_name: RSI+MACD
+symbol: BTCUSDT
+exchange: Binance
+timeframe: 1h
+balance_pct: 0.1
+take_profit_pct: 3
+stop_loss_pct: 1
+parameters:
+  ema_fast: 0
+  ema_slow: 0
+  ema_signal: 0
+  rsi_length: 0
+status: OFF
+---
+strategy_name: TradeChaos_1
+symbol: BTCUSDT
+exchange: Binance
+timeframe: 1m
+balance_pct: 0.1
+take_profit_pct: 3
+stop_loss_pct: 1
+parameters:
+  sma_fast: 2
+  sma_slow: 5
+status: ON

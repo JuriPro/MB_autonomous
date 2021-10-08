@@ -1,0 +1,12 @@
+Links:
+"https://fapi.binance.com"
+"https://testnet.binancefuture.com"
+
+Place order, Cancel order .... (real work)
+"wss://fstream.binance.com"
+
+Binance API Documentation:
+"https://binance-docs.github.io/apidocs"
+
+GET /fapi/v1/exchangeInfo
+Current exchange trading rules and symbol information
