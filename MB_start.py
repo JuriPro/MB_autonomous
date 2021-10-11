@@ -91,8 +91,8 @@ if __name__ == '__main__':
     logger.info(' --- MB_AUTONOMOUS IS STARTED --- ')
 
     # SPOT KEYS
-    s_api_binance_test = ''
-    s_secret_binance_test = ''
+    s_api_binance_test = r''
+    s_secret_binance_test = r''
     # FUTURES KEYS
     f_api_binance_test = r''
     f_secret_binance_test = r''

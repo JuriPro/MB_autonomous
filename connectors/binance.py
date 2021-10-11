@@ -59,7 +59,36 @@ class BinanceClient:
         self._headers = {'X-MBX-APIKEY': self._public_key}
 
         self.contracts = self.get_contracts()
+
+        logger.info("Market pairs:")
+        # print(self.contracts)
+        for i, symbol in enumerate(self.contracts.keys()):
+            contract_data = self.contracts[symbol]
+
+            if self.platform == 'binance_futures':
+                logger.info(
+                    f"{i + 1}: "
+                    f"{contract_data.symbol} "
+                    f"baseAsset: {contract_data.base_asset} "
+                    f"quoteAsset: {contract_data.quote_asset}")
+            elif self.platform == 'binance_spot':
+                logger.info(
+                    f"{i + 1}: "
+                    f"{contract_data.symbol} "
+                    f"baseAsset: {contract_data.base_asset} "
+                    f"quoteAsset: {contract_data.quote_asset}"
+                )
+
         self.balances = self.get_balances()
+
+        logger.info('Current balances:')
+        for symbol, balance in self.balances.items():
+            if self.platform == 'binance_futures':
+                logger.info(f"{symbol} "
+                            f"margin_balance: {balance.margin_balance} "
+                            f"wallet_balance: {balance.wallet_balance}")
+            else:
+                logger.info(f"{symbol} free: {balance.free} locked: {balance.locked}")
 
         self.prices = dict()
         self.strategies: typing.Dict[int, typing.Union[MACD_RSI_Strategy, CandlesStrategy, TradeChaosStrategy]] = dict()
@@ -150,15 +179,8 @@ class BinanceClient:
         contracts = dict()
 
         if exchange_info is not None:
-            with open('MarketPairs.txt', 'w') as f:
-                for i, contract_data in enumerate(exchange_info['symbols']):
-                    contracts[contract_data['symbol']] = Contract(contract_data, self.platform)
-                    f.write(
-                        f"{i+1}: "
-                        f"pair:{contract_data['pair']} "
-                        f"status:{contract_data['status']} "
-                        f"baseAsset:{contract_data['baseAsset']}\n"
-                    )
+            for i, contract_data in enumerate(exchange_info['symbols']):
+                contracts[contract_data['symbol']] = Contract(contract_data, self.platform)
 
         return collections.OrderedDict(sorted(contracts.items()))  # Sort keys of the dictionary alphabetically
 
